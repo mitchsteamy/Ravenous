@@ -1,6 +1,6 @@
 //@ts-check
 
-const apiKey = '8szM0NTEguVAiwwxEgT6jO2BAK-PMWQem-BWJY1Yre3YYEscThvnBHrw6X3O62KjSnrVfn9LrrLaMX4eJ6Qocb4ZnTKyOi4dUdZHp0vYsd2S3Tx3HOEgEm_frr7RYnYx'
+const apiKey = '//insert your own api key here//'
 
 const Yelp = {
     search(term, location, sortBy) {
